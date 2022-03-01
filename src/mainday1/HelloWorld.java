@@ -19,7 +19,10 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello World.");
+		
 		System.out.println("My name: Tran Nguyen");
+		
+		System.out.println("Class name: JDEV - D014");
 	}
 
 }
